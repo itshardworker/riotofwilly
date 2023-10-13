@@ -3,8 +3,8 @@
 
 	  "Active_Ad_network": "admob",
 
-      "Admob_interstitial": "ca-app-pub-8601602342489686/9110659174",
-      "Admob_banner": "ca-app-pub-8601602342489686/9793185452",
+      "Admob_interstitial": "ca-app-pub-1321301934647170/4004853913",
+      "Admob_banner": "ca-app-pub-1321301934647170/7024972767",
 
 	  "IronSource_App_Key": "",
       "IronSource_interstitial_Placement": "DefaultInterstitial",
@@ -16,7 +16,7 @@
       "Ad__X__Banner": "admob",
 
 
-      "Package_name": "com.riotofwilly.getfungame",
+      "Package_name": "com.seven_nights_ghost.getfungame",
 
       "Reward_Video_after": "4",
 	  
